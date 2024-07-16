@@ -21,7 +21,7 @@
 
 安装
 ----
-直接下载 `Market.exe` ，双击运行即可。
+直接在 [Release 页面](https://github.com/Steel-Yao/SimpleMarket/releases)下载 `Market.exe` ，双击运行即可。
 
 >程序首次运行会在运行目录创建三个二进制文件 `market_accounts` 、`market_store` 和 `market_bill` ，分别用来存储账户、库存和账单信息。*（示例数据可以在文件夹 `data` 中找到。）*
 
