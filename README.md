@@ -11,11 +11,11 @@
 
 截图
 ----
-![主菜单](<screenshots/main menu.png>)  
-![超市管理菜单](<screenshots/market manage.png>)  
-![库存管理菜单](<screenshots/storehouse manage.png>)  
-![货物清单](<screenshots/storehouse list.png>)  
-![账单处理菜单](<screenshots/bill manage.png>)  
+![主菜单](<screenshots/main menu.png>)
+![超市管理菜单](<screenshots/market manage.png>)
+![库存管理菜单](<screenshots/storehouse manage.png>)
+![货物清单](<screenshots/storehouse list.png>)
+![账单处理菜单](<screenshots/bill manage.png>)
 
 安装
 ----
